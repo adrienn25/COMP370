@@ -1,2 +1,3 @@
-# COMP370
-Projects done for COMP370 (Introduction to Data Science)
+# COMP370_HW4
+
+Explores argparse and the CLI to analyse data
